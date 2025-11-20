@@ -3,7 +3,7 @@
 🎓 **MS Data Science – Boston University ’26**  
 AWS Certified Machine Learning Engineer • AWS Certified Machine Learning Specialty • AWS Cloud Practitioner
 
-💻 5 years as the only cloud + data person at a mental-health nonprofit (previously analytics @ PGA TOUR) → now shipping production-ready data pipelines and ML projects
+💻 5 years as the only cloud + data person at a mental-health nonprofit (previously sales and marketing analytics @ PGA TOUR) → now shipping production-ready data pipelines and ML projects
 
 🔭 **Research I've shipped (mental-health / suicide prevention):**
 
